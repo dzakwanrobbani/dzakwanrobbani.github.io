@@ -68,19 +68,19 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "robbani.dzakwan@gmail.com"
+  facebook: dzakwan
+  github: dzakwanrobbani
+  twitter: dzakwan
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: dzakwan
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +6281327725538
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -156,7 +156,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
